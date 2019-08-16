@@ -7,12 +7,12 @@ var TREE_ITEMS_ADM = [
 					['Vehiculos','navegador_vehiculos.php'],*/
             
 					['Inventarios',0,
-						/*['Registro de Almacenes','navegador_almacenes.php'],
+						['Registro de Almacenes','navegador_almacenes.php'],
 						['Registro de Materiales','navegador_material.php'],
 						['Registro de Tipos de Materiales','navegador_tiposmaterial.php'],
 						['Registro de Tipos de Ingreso','navegador_tiposingreso.php'],
 						['Registro de Tipos de Salida','navegador_tipossalida.php'],
-						['Registro de Precios','navegador_precios.php'],*/
+						['Registro de Precios','navegador_precios.php'],
 						['Registro de Costos por Mes (Promedio Ponderado) y Almacen', 'navegadorCostosMesAlmacen.php'],
 						['Cargado de Costos Iniciales PEPS/UEPS', 'navegadorCostosMesAlmacenPUEPS.php'],
 						
@@ -21,7 +21,6 @@ var TREE_ITEMS_ADM = [
 						['Calcular Costos UEPS', 'navegadorCalcularCostosUEPS.php'],
 						
 					],
-					['Territorios','navegador_territorios.php'],
 		],
 	 ];
 	 
